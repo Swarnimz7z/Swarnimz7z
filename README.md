@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 🌏 I’m currently studying at Bennett University.<br>🌱 I’m currently learning Deep learning, Computer Vision and Web Development<br>💬 Ask me about AIML, Python, or anything tech-related!<br>🙏🏻Love to collaborate on Projects of Machine Learning and React<br>📫 How to reach me: 7z.swarnim@gmail.com<br>⚡Fun positive: I like exploring new ideas and techs of my fields as well Things which I like
 
 
